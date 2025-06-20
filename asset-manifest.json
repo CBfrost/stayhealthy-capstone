@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/stayhealthy-capstone/static/css/main.211893af.css",
+    "main.css": "/stayhealthy-capstone/static/css/main.cc2fb579.css",
     "main.js": "/stayhealthy-capstone/static/js/main.7bdba8b2.js",
     "static/js/453.b947bd1b.chunk.js": "/stayhealthy-capstone/static/js/453.b947bd1b.chunk.js",
     "index.html": "/stayhealthy-capstone/index.html",
-    "main.211893af.css.map": "/stayhealthy-capstone/static/css/main.211893af.css.map",
+    "main.cc2fb579.css.map": "/stayhealthy-capstone/static/css/main.cc2fb579.css.map",
     "main.7bdba8b2.js.map": "/stayhealthy-capstone/static/js/main.7bdba8b2.js.map",
     "453.b947bd1b.chunk.js.map": "/stayhealthy-capstone/static/js/453.b947bd1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.211893af.css",
+    "static/css/main.cc2fb579.css",
     "static/js/main.7bdba8b2.js"
   ]
 }
